@@ -13,7 +13,7 @@ team:
     linkedin:   
     
   - name: Prof. Paola Cappanera
-    img: /img/people/paola.png
+    img: /img/people/paola.jpg
     desc: Associate Professor
     website:  
     url:
